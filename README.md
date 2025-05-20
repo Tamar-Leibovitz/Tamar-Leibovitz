@@ -4,8 +4,6 @@ I’m Tamar Leibovitz,
 I'm a software developer with a passion for solving complex problems through creative thinking and precision. I love learning new technologies and growing my expertise. I'm focused, detail-oriented, and enjoy working with others to create impactful solutions.
 
 
-How to reach me 📧 t0527163112@gmail.com
-
 ### Technologies & Tools I Use:
 <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++"/></code>
 <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C"/></code>
