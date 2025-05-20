@@ -1,6 +1,6 @@
 Hi there! 👋
 
-I’m Tamar Leibovitz✨, 
+I’m Tamar Leibovitz, 
 I'm a software developer with a passion for solving complex problems through creative thinking and precision. I love learning new technologies and growing my expertise. I'm focused, detail-oriented, and enjoy working with others to create impactful solutions.
 
 
